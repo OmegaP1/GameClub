@@ -14,4 +14,4 @@ Main idea:
 
 
 Futuro:
-	Usar o simulador para criar jogos de cartas
+	Usar oo simulador para criar jogos de cartas
