@@ -1,0 +1,17 @@
+Main idea:
+	Baralho de cartas digital, com possibilidade de jogar qql jogo com qql numero de cavalheiros
+
+	3 Opcoes de baralho:
+		Todas as cartas
+		Sem jokers
+		Sem jokers, 10, 9, 8
+
+	Opcao para numero de cartas por mao
+	
+	Numero de baralho --> numero de pessoas
+
+	Host dita regras, cria sala, consegue parar o jogo, consegue baralhar
+
+
+Futuro:
+	Usar o simulador para criar jogos de cartas
